@@ -1,0 +1,6 @@
+framework module Pods_touring {
+  umbrella header "Pods-touring-umbrella.h"
+
+  export *
+  module * { export * }
+}
